@@ -5,6 +5,8 @@
 - 👔 I`m currently a member of the 6th Saffy.
 - 🌱 I’m currently learning Spring, Algorithm
 
+<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=success">
+
 ### Experience
 - 🎓 Catholic University (2015.03 ~ 2021.08)
 - ☁️ Multi-campus Cloud training (2020.12 ~ 2021.06)
@@ -21,7 +23,7 @@
 
 
 
-<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=success">
+
 
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=happyAyun&show_icons=true&theme=radical" height="165">
 
