@@ -2,7 +2,7 @@
 
 <img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=success">
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=happyAyun&show_icons=true&theme=radical" height="165">
-<img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=happyAyun&layout=compact)">
+
 ### Who Am I
 - 👩‍💻 I majored in computer engineering.
 - 👔 I`m currently a member of the 6th SAFFY.
