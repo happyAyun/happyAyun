@@ -1,8 +1,9 @@
 # Hi I'm Ayun 👋
-<div align='top'>
+<div align=top>
 <img align='left' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=success">
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=happyAyun&show_icons=true&theme=radical" height="165">
 </div>
+<hr>
 ---
 
 ### Who Am I
