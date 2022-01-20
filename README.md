@@ -11,7 +11,7 @@
 
 ### Who Am I
 - 👩‍💻 I majored in computer engineering.
-- 👔 I`m currently a member of the 6th SAFFY.
+- 👔 I'm currently a member of the 6th SAFFY.
 - 🌱 I’m currently learning Spring, Algorithm.
 
 
