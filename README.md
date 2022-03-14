@@ -11,15 +11,17 @@
 
 ### Who Am I
 - 👩‍💻 I majored in computer engineering.
-- 👔 I'm currently a member of the SAFFY 6th.
-- 🌱 I’m currently learning Algorithm.
+- 🌱 I'm learning from Lotte Information and Communication.
+<!-- - 🌱 I’m currently learning Algorithm. -->
 
 
 
 ### Experience
 <!-- - 🎓 Catholic University (2015.03 ~ 2021.08) -->
 - ☁️ Multi-campus Cloud training (2020.12 ~ 2021.06)
-- 💻 Samsung SW Academy For Youth [SSAFY 6th] (2021.07 ~ )
+- 💻 Samsung SW Academy For Youth [SSAFY 6th] (2021.07 ~ 2022.03)
+- 👔 Lotte Information and Communication (2022.03 ~ )
+
 
 
 <!-- ### Award
